@@ -1,1 +1,1 @@
-# Haskell_Study
+# Reading_Haskell
